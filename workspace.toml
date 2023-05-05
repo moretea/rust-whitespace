@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "rust-whitespace",
+    "rust-whitespace-proc",
+    "rust-whitespace-demo"
+]
